@@ -21,7 +21,7 @@ def process_page(page_number, image):
     print(text)
     print('---')
 
-# Ruta del archivo PDF
+
 pdf_path = 'teste.pdf'
 
 # Convertir el PDF a imágenes
