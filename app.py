@@ -1,5 +1,4 @@
-from flask import Flask, render_template, request, redirect, url_for, flash
-from watchdog.observers import Observer
+from flask import Flask
 from flask_restful import  Api
 
 
@@ -21,4 +20,4 @@ def home():
 
 if __name__ == '__main__':
     
-    app.run(debug=True)
+    app.run(debug=True, port=5001)

@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv, find_dotenv
-from urllib.parse import quote
+
 
 class Config(object):
     DEBUG = False
