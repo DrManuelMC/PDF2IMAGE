@@ -3,3 +3,9 @@ venv/
 .venv/
 __pycache__/
 output/
+data/
+logs/
+unSeentest/
+Images_classification.ipynb
+contratos/
+venv/
